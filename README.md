@@ -15,7 +15,7 @@
   9. Day 9. Recursion: https://www.hackerrank.com/challenges/30-recursion/tutorial
 
 #### Другие задачи
-  Play with words: https://www.hackerrank.com/challenges/strplay/problem
+  1. Play with words: https://www.hackerrank.com/challenges/strplay/problem
       пока не проходит требованиям времени выполнения. рекурсию заменила на цикл-матрицу прямоугольную заменила на треугольную
-  Simple Array Sum: https://www.hackerrank.com/challenges/simple-array-sum/problem
-  Compare the Triplets: https://www.hackerrank.com/challenges/compare-the-triplets/problem
+  2. Simple Array Sum: https://www.hackerrank.com/challenges/simple-array-sum/problem
+  3. Compare the Triplets: https://www.hackerrank.com/challenges/compare-the-triplets/problem
